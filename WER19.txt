@@ -1,0 +1,53 @@
+Título: Uma Análise das Características de Especificação de Requisitos de Software em Normas de Ambientes Regulados.
+Resumen: JC Marques - WER, 2019 - inf.puc-rio.br
+Citas: 3
+-------------------------------------------------------------------Título: Requirements communication in safety-critical systems
+Resumen: J Vilela, J Castro, LEG Martins, T Gorschek… - 22nd Workshop em …, 2019 - diva-portal.org
+Citas: 5
+-------------------------------------------------------------------Título: Um processo para elicitar requisitos de software em projeto de implantação de ERP para empresas com unidades autônomas e diferentes culturas …
+Resumen: HGP Hitzschky, VL Gava - WER, 2019 - inf.puc-rio.br
+Citas: 0
+-------------------------------------------------------------------Título: Privacy and Security in Requirements Engineering: Results from a Systematic Literature Mapping.
+Resumen: D Netto, MM Peixoto, C Silva - WER, 2019 - researchgate.net
+Citas: 6
+-------------------------------------------------------------------Título: The PRISE Tool to Support iStar Extensions.
+Resumen: EJT Gonçalves, T Heineck, L de Oliveira, J Araújo… - WER, 2019 - wer.inf.puc-rio.br
+Citas: 1
+-------------------------------------------------------------------Título: Críticas Cognitivas a Heurísticas Orientadas a Modelos.
+Resumen: JH Doorn, GDS Hadad, MC Elizalde, ARG García… - WER, 2019 - inf.puc-rio.br
+Citas: 2
+-------------------------------------------------------------------Título: iStar4Safety: Uma Extensão de iStar para Modelagem de Requisitos de Segurança em Sistemas Críticos.
+Resumen: M Ribeiro, J Castro, J Vilela, J Pimentel - WER, 2019 - wer.inf.puc-rio.br
+Citas: 3
+-------------------------------------------------------------------Título: O uso de modelos de processos de negócio e de modelagem organizacional em metodologias ágeis: uma revisão sistemática da literatura.
+Resumen: CT Outa, VFA Santander - WER, 2019 - inf.puc-rio.br
+Citas: 2
+-------------------------------------------------------------------Título: Aplicação da Etnografia no Contexto de Fábrica de Software na Perspectiva da Engenharia de Requisitos.
+Resumen: L Souza, E Miranda, M Lucena, A Gomes - WER, 2019 - researchgate.net
+Citas: 1
+-------------------------------------------------------------------Título: Raciocinando sobre a propagação de impactos em mode-los de metas através de Redes de Petri
+Resumen: RF de Oliveira, JCS do Prado Leite - 2019 - wer.inf.puc-rio.br
+Citas: 2
+-------------------------------------------------------------------Título: Identificando cenários de conflitos na Engenharia de Requisitos visando aplicação da Comunicação Não Violenta.
+Resumen: AF Barbosa, M Lencastre - WER, 2019 - wer.inf.puc-rio.br
+Citas: 3
+-------------------------------------------------------------------No se encontraron resultados para el paper "Relacionando requisitos de software e competências de recursos humanos através de modelos organizacionais"
+
+-------------------------------------------------------------------Título: Métricas de tamanho de software com métodos ageis no setor público: uma revisao sistemática
+Resumen: A Mendonça, F Alencar - Cadernos do IME-Série Informática, 2019 - e-publicacoes.uerj.br
+Citas: 2
+-------------------------------------------------------------------Título: Evaluación de Variantes de Inspección en un Modelo Léxico.
+Resumen: A Sebastián, GDS Hadad, D Raffo - WER, 2019 - inf.puc-rio.br
+Citas: 0
+-------------------------------------------------------------------Título: Uso de Metodologias Criativas no Processo de Ensino da Disciplina Engenharia de Requisitos.
+Resumen: P Mergulhão, M Lencastre, M Soares, R Almeida… - WER, 2019 - inf.puc-rio.br
+Citas: 2
+-------------------------------------------------------------------Título: Laboratório da CNV: Um jogo digital para compreender a Comunicação Não Violenta.
+Resumen: CLF de Lima, CB de Andrade, AF Barbosa… - WER, 2019
+Citas: 0
+-------------------------------------------------------------------Título: JGOOSE: Uma ferramenta para derivar casos de uso a partir de modelos em i* e BPMN.
+Resumen: VA Pozzan, VFA Santander - WER, 2019 - inf.puc-rio.br
+Citas: 1
+-------------------------------------------------------------------No se encontraron resultados para el paper "Uso das Metodologias Ativas na Engenharia de Requisitos"
+
+-------------------------------------------------------------------
