@@ -1,41 +1,56 @@
 Título: Requirements Engineering for Robotic System: A Systematic Mapping Study.
 Resumen: D Albuquerque, J Castro, S Ribeiro, T Heineck - WER, 2017 - cin.ufpe.br
 Citas: 6
--------------------------------------------------------------------Título: Rastreamento e Gerenciamento de Requisitos em Busca da Conformidade Legal.
+-------------------------------------------------------------------
+Título: Rastreamento e Gerenciamento de Requisitos em Busca da Conformidade Legal.
 Resumen: I Santos, E Miranda, M Lucena - CIbSE, 2017 - inf.puc-rio.br
 Citas: 1
--------------------------------------------------------------------No se encontraron resultados para el paper "A Survey on Preferences of Quality Attributes in the Decision-making for Self-Adaptive Systems: the Bad, the Good and the Ugly"
-
--------------------------------------------------------------------Título: A Qualificação Profissional do Engenheiro de Requisitos no Brasil.
+-------------------------------------------------------------------
+A Survey on Preferences of Quality Attributes in the Decision-making for Self-Adaptive Systems: the Bad, the Good and the Ugly
+Resumen: LHG Paucar, N Bencomo - 2017 - publications.aston.ac.uk
+Citas: 1
+-------------------------------------------------------------------
+Título: A Qualificação Profissional do Engenheiro de Requisitos no Brasil.
 Resumen: VD Paldês, J dos Reis Lopes, ALC da Silva, RA Paldês… - CIbSE, 2017 - inf.puc-rio.br
 Citas: 2
--------------------------------------------------------------------Título: O perfil do analista de requisitos de software: uma comparação entre a academia eo mercado de trabalho brasileiro.
+-------------------------------------------------------------------
+Título: O perfil do analista de requisitos de software: uma comparação entre a academia eo mercado de trabalho brasileiro.
 Resumen: ATS Calazans, RA Paldês, E Braosi, KM Rezende… - WER, 2017
 Citas: 3
--------------------------------------------------------------------Título: Retrospective and Trends in Requirements Engineering for Embedded Systems: A Systematic Literature Review.
+-------------------------------------------------------------------
+Título: Retrospective and Trends in Requirements Engineering for Embedded Systems: A Systematic Literature Review.
 Resumen: T Pereira, D Albuquerque, A Sousa, FMR Alencar… - CIbSE, 2017 - inf.puc-rio.br
 Citas: 10
--------------------------------------------------------------------No se encontraron resultados para el paper "Requirements Engineering Practice and Problems in Agile Projects: Results from an International Survey"
-
--------------------------------------------------------------------Título: Limiting the Scope of the Domain Language to Describe the Application Language.
+-------------------------------------------------------------------
+Requirements Engineering Practice and Problems in Agile Projects: Results from an International Survey
+Resumen: S Wagner, DM Fernández, M Felderer… - arXiv preprint arXiv …, 2017 - arxiv.org
+Citas: 35
+-------------------------------------------------------------------
+Título: Limiting the Scope of the Domain Language to Describe the Application Language.
 Resumen: L Antonelli, G Rossi, JCS do Prado Leite, A Oliveros - CIbSE, 2017 - www-di.inf.puc-rio.br
 Citas: 1
--------------------------------------------------------------------Título: Jerarquías Naturales en el Contexto del Proceso de Requisitos
+-------------------------------------------------------------------
+Título: Jerarquías Naturales en el Contexto del Proceso de Requisitos
 Resumen: K Gladys, D Jorge - Dpto. de Ing. e Inv. Tecnológicas, Universidad …, 2017
 Citas: 2
--------------------------------------------------------------------Título: Usando KIPO para Modelar Problemas e Socialização na Elicitação de Requisitos.
+-------------------------------------------------------------------
+Título: Usando KIPO para Modelar Problemas e Socialização na Elicitação de Requisitos.
 Resumen: D Pimenta, F Baião, G Santos - CIbSE, 2017 - inf.puc-rio.br
 Citas: 2
--------------------------------------------------------------------Título: Towards an Ontology of Goal-Oriented Requirements.
+-------------------------------------------------------------------
+Título: Towards an Ontology of Goal-Oriented Requirements.
 Resumen: PP Negri, VES Souza, AL de Castro Leal… - CIbSE, 2017 - inf.puc-rio.br
 Citas: 34
--------------------------------------------------------------------Título: Inspección Centrada en Omisiones y Ambigüedades de un Modelo Léxico.
+-------------------------------------------------------------------
+Título: Inspección Centrada en Omisiones y Ambigüedades de un Modelo Léxico.
 Resumen: A Sebastián, GDS Hadad, E Robledo - CIbSE, 2017 - inf.puc-rio.br
 Citas: 4
--------------------------------------------------------------------Título: Un Enfoque Inteligente para Derivar Use Case Maps a partir de Requerimientos de Software.
+-------------------------------------------------------------------
+Título: Un Enfoque Inteligente para Derivar Use Case Maps a partir de Requerimientos de Software.
 Resumen: B Caimmi, GH Rodríguez, Á Soria - CIbSE, 2017 - inf.puc-rio.br
 Citas: 2
--------------------------------------------------------------------Título: Uma Notação Textual Modular Escalável para Modelos de Requisitos IStar.
+-------------------------------------------------------------------
+Título: Uma Notação Textual Modular Escalável para Modelos de Requisitos IStar.
 Resumen: F Penha, M Lucena, LR Lucena, FMR Alencar… - CIbSE, 2017 - wer.inf.puc-rio.br
 Citas: 1
 -------------------------------------------------------------------

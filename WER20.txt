@@ -52,7 +52,9 @@ Título: Uma Ferramenta para Construção de Catálogos de Padrões de Requisito
 Resumen: TN Kudo, R de Freitas Bulcão-Neto, AMR Vincenzi - WER, 2020 - wer.inf.puc-rio.br
 Citas: 7
 -------------------------------------------------------------------
-No se encontraron resultados para el paper "Problemas do Design Thinking para a Engenharia de  Requisitos: uma Revisão Sistemática da Literatura"
+Problemas do Design Thinking para a Engenharia de  Requisitos: uma Revisão Sistemática da Literatura
+Resumen: FA de Castro Pinto, FL Siqueira - WER, 2020 - inf.puc-rio.br
+Citas: 3
 
 -------------------------------------------------------------------
 Título: Descrevendo requisitos de User eXperience em Critérios de Aceitação de User Stories.
@@ -67,7 +69,9 @@ Título: Os Benefícios do Uso de Ontologias em Sistemas Embarcados.
 Resumen: A Sousa, T Gomes, L Lima, FMR Alencar - WER, 2020 - inf.puc-rio.br
 Citas: 0
 -------------------------------------------------------------------
-No se encontraron resultados para el paper "Empathy and Criativity in Privacy  Requirements Elicitation: Systematic Literature  Review"
+Empathy and Criativity in Privacy  Requirements Elicitation: Systematic Literature  Review
+Resumen: A Sousa, T Gomes, L Lima, FMR Alencar - WER, 2020 - inf.puc-rio.br
+Citas: 0
 
 -------------------------------------------------------------------
 Título: Conflitos na ER: Proposta de uma Atividade de Narrativa com auxílio de Realidade Aumentada

@@ -52,8 +52,9 @@ Título: Especificação de Requisitos de Privacidade em Conformidade com a LGPD
 Resumen: C Alves, M Neves - WER, 2021 - inf.puc-rio.br
 Citas: 5
 -------------------------------------------------------------------
-No se encontraron resultados para el paper "Aplicando técnicas de Design Thinking para a especificação de cenários na elicitação de requisitos"
-
+Aplicando técnicas de Design Thinking para a especificação de cenários na elicitação de requisitos
+Resumen: JC Duarte, AL Damian, R Parizi, S Marczak, T Conte - WER, 2021
+Citas: 3
 -------------------------------------------------------------------
 Título: Thinking About Gender: Combinando Design Thinking e GenderMag na Elicitação de Requisitos para um Software de Apoio a Avaliação de UX.
 Resumen: E Almeida, V Monteiro, F Alves, B Aguiar, LC Marques… - WER, 2021
@@ -83,8 +84,9 @@ Título: CSC-Um Sistema de Controle de Cenários de Conflito.
 Resumen: M Paiva, M Lencastre, AF Barbosa - WER, 2021 - wer.inf.puc-rio.br
 Citas: 0
 -------------------------------------------------------------------
-No se encontraron resultados para el paper "Helius: On a Recommendation System of Design Thinking Techniques for Software Development based on Professionals' Collaboration"
-
+Helius: On a Recommendation System of Design Thinking Techniques for Software Development based on Professionals' Collaboration
+Resumen: R Parizi, I Couto, L Hanauer, S Marczak, T Conte - WER, 2021 - researchgate.net
+Citas: 2
 -------------------------------------------------------------------
 Título: Requisitos de Confiança para Robôs Socialmente Assistivos.
 Resumen: LR da Costa, J Castro - WER, 2021 - wer.inf.puc-rio.br

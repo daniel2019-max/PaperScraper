@@ -1,37 +1,51 @@
 No se encontraron resultados para el paper "Preface English - 16th Workshop on Requirements"
 
--------------------------------------------------------------------Título: Quality Properties Evaluation for Software Requirements Specifications: An Exploratory Analysis.
+-------------------------------------------------------------------
+Título: Quality Properties Evaluation for Software Requirements Specifications: An Exploratory Analysis.
 Resumen: R Saavedra, LC Ballejos, M Ale - CIbSE, 2013 - wer.inf.puc-rio.br
 Citas: 10
--------------------------------------------------------------------Título: Analyzing the Use of an Enterprise Model as a Stakeholder Requirements Model: An Experiment.
+-------------------------------------------------------------------
+Título: Analyzing the Use of an Enterprise Model as a Stakeholder Requirements Model: An Experiment.
 Resumen: FL Siqueira, PSM Silva - CIbSE, 2013 - inf.puc-rio.br
 Citas: 3
--------------------------------------------------------------------No se encontraron resultados para el paper "Introducing Use Cases in a small Organization: An Experience and Lessons Learned"
-
--------------------------------------------------------------------Título: 25 Years of Requirements Engineering in Brazil: A Systematic Mapping.
+-------------------------------------------------------------------
+Introducing Use Cases in a small Organization: An Experience and Lessons Learned
+Resumen: D Costal Costa, J Franch Gutiérrez… - … 2013: del 8 al 10 de …, 2013 - upcommons.upc.edu
+Citas: 0
+-------------------------------------------------------------------
+Título: 25 Years of Requirements Engineering in Brazil: A Systematic Mapping.
 Resumen: K Oliveira, J Pimentel, E Santos, D Dermeval… - CIbSE, 2013 - researchgate.net
 Citas: 6
--------------------------------------------------------------------Título: GT4CCI: An Approach Based on Grounded Theory for Crosscutting Concerns Identification in Requirements Documents.
+-------------------------------------------------------------------
+Título: GT4CCI: An Approach Based on Grounded Theory for Crosscutting Concerns Identification in Requirements Documents.
 Resumen: L de Alencar Sobral, LF da Silva - CIbSE, 2013 - inf.puc-rio.br
 Citas: 1
--------------------------------------------------------------------Título: A Semi-Automatic Strategy to Identify Crosscutting Concerns in PL-AOVgraph Requirement Models.
+-------------------------------------------------------------------
+Título: A Semi-Automatic Strategy to Identify Crosscutting Concerns in PL-AOVgraph Requirement Models.
 Resumen: M Medeiros, L Silva, AL Medeiros - CIbSE, 2013 - wer.inf.puc-rio.br
 Citas: 1
--------------------------------------------------------------------Título: Una estrategia de integración de Modelos de Objetivos con Análisis Comunicacional.
+-------------------------------------------------------------------
+Título: Una estrategia de integración de Modelos de Objetivos con Análisis Comunicacional.
 Resumen: MC Leonardi, R Giandini - CIbSE, 2013 - wer.inf.puc-rio.br
 Citas: 1
--------------------------------------------------------------------Título: Uma Abordagem para Engenharia de Requisitos no Domínio de Software Embarcado.
+-------------------------------------------------------------------
+Título: Uma Abordagem para Engenharia de Requisitos no Domínio de Software Embarcado.
 Resumen: MRS Marques, E Siegert, LB de Brisolara - CIbSE, 2013 - inf.puc-rio.br
 Citas: 1
--------------------------------------------------------------------Título: Uso de Sinônimos na Identificação de Atributos de Transparência.
+-------------------------------------------------------------------
+Título: Uso de Sinônimos na Identificação de Atributos de Transparência.
 Resumen: JW Baía, JL Braga - CIbSE, 2013 - wer.inf.puc-rio.br
 Citas: 4
--------------------------------------------------------------------Título: Correcciones semánticas en métodos de estimación de completitud de modelos en lenguaje natural
+-------------------------------------------------------------------
+Título: Correcciones semánticas en métodos de estimación de completitud de modelos en lenguaje natural
 Resumen: CS Litvak, GDS Hadad, JH Doorn - 2012 - 190.221.29.250
 Citas: 15
--------------------------------------------------------------------No se encontraron resultados para el paper "Retrospective and Trends in Requirements Engineering through the WER"
-
--------------------------------------------------------------------Título: Buenas Prácticas en la Especificación del Dominio de una Aplicación.
+-------------------------------------------------------------------
+Retrospective and Trends in Requirements Engineering through the WER
+Resumen: J Valaski, W Stancke, SS Reinehr, A Malucelli - CIbSE, 2013 - inf.puc-rio.br
+Citas: 3
+-------------------------------------------------------------------
+ítulo: Buenas Prácticas en la Especificación del Dominio de una Aplicación.
 Resumen: L Antonelli, G Rossi, JCS do Prado Leite, A Oliveros - CIbSE, 2013 - academia.edu
 Citas: 4
 -------------------------------------------------------------------

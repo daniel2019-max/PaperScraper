@@ -42,8 +42,9 @@ Título: Identificando cenários de conflitos na Engenharia de Requisitos visand
 Resumen: AF Barbosa, M Lencastre - WER, 2019 - wer.inf.puc-rio.br
 Citas: 3
 -------------------------------------------------------------------
-No se encontraron resultados para el paper "Relacionando requisitos de software e competências de recursos humanos através de modelos organizacionais"
-
+Relacionando requisitos de software e competências de recursos humanos através de modelos organizacionais
+Resumen: HP Sousa, EK Almentero, JCS do Prado Leite - WER, 2019 - inf.puc-rio.br
+Citas: 2
 -------------------------------------------------------------------
 Título: Métricas de tamanho de software com métodos ageis no setor público: uma revisao sistemática
 Resumen: A Mendonça, F Alencar - Cadernos do IME-Série Informática, 2019 - e-publicacoes.uerj.br

@@ -1,41 +1,54 @@
 Título: Preface
 Resumen: M Schwab, WP Kaschka, E Spina - Pharmacogenomics in Psychiatry, 2010 - karger.com
 Citas: 48
--------------------------------------------------------------------No se encontraron resultados para el paper "Table of Contents"
-
--------------------------------------------------------------------Título: Abstract security patterns for requirements specification and analysis of secure systems
+-------------------------------------------------------------------
+No se encontraron resultados para el paper "Table of Contents"
+-------------------------------------------------------------------
+Título: Abstract security patterns for requirements specification and analysis of secure systems
 Resumen: E Fernandez-Buglioni, N Yoshioka, H Washizaki… - 2014 - Universidad de la Frontera
 Citas: 2
--------------------------------------------------------------------Título: Modelo orientado à meta para estabelecer relações de contribuição mútua entre Proveniência, Transparência e Confiança
+-------------------------------------------------------------------
+Título: Modelo orientado à meta para estabelecer relações de contribuição mútua entre Proveniência, Transparência e Confiança
 Resumen: P Leite - 2014 - researchgate.net
 Citas: 2
--------------------------------------------------------------------Título: Engenharia de Requisitos: Um Survey realizado no Porto Digital, Recife/Brasil.
+-------------------------------------------------------------------
+Título: Engenharia de Requisitos: Um Survey realizado no Porto Digital, Recife/Brasil.
 Resumen: D Arruda, R Soares, D Vieira, R Ferreira, T Cabral… - CIbSE, 2014 - inf.puc-rio.br
 Citas: 5
--------------------------------------------------------------------Título: Prácticas de Ingeniería de Requerimientos en el desarrollo de aplicaciones Web.
+-------------------------------------------------------------------
+Título: Prácticas de Ingeniería de Requerimientos en el desarrollo de aplicaciones Web.
 Resumen: A Oliveros, FJ Danyans, ML Mastropietro - CIbSE, 2014 - wer.inf.puc-rio.br
 Citas: 33
--------------------------------------------------------------------Título: Semantic Documentation in Requirements Engineering.
+-------------------------------------------------------------------
+Título: Semantic Documentation in Requirements Engineering.
 Resumen: R de Almeida Falbo, CEC Braga, BN Machado - CIbSE, 2014 - researchgate.net
 Citas: 10
--------------------------------------------------------------------Título: NDR-Tool: Uma Ferramenta de Apoio ao Reuso de Conhecimento em Requisitos Não Funcionais.
+-------------------------------------------------------------------
+Título: NDR-Tool: Uma Ferramenta de Apoio ao Reuso de Conhecimento em Requisitos Não Funcionais.
 Resumen: AL de Araújo, LM Cysneiros, VMB Werneck - CIbSE, 2014 - inf.puc-rio.br
 Citas: 8
--------------------------------------------------------------------Título: Um modelo de features para jogos sérios voltados à saúde: uma abordagem baseada em linha de produtos de software.
+-------------------------------------------------------------------
+Título: Um modelo de features para jogos sérios voltados à saúde: uma abordagem baseada em linha de produtos de software.
 Resumen: D Tavares, C Silva, D Rousy - CIbSE, 2014 - inf.puc-rio.br
 Citas: 4
--------------------------------------------------------------------No se encontraron resultados para el paper "Uso Do Design Thinking Na Elicitação De Requisitos De  Ambientes Virtuais De Aprendizagem Móvel"
-
--------------------------------------------------------------------Título: NòmosBPMN: Adaptando o Nòmos para a Modelagem de Processos de Negócio.
+-------------------------------------------------------------------
+Uso Do Design Thinking Na Elicitação De Requisitos De  Ambientes Virtuais De Aprendizagem Móvel
+Resumen: CLC Souza - 2014 - repositorio.ufpe.br
+Citas: 19
+-------------------------------------------------------------------
+Título: NòmosBPMN: Adaptando o Nòmos para a Modelagem de Processos de Negócio.
 Resumen: H Albuquerque, C Silva, D Rousy - CIbSE, 2014 - inf.puc-rio.br
 Citas: 4
--------------------------------------------------------------------Título: Uma Abordagem Colaborativa de Modelagem Conceitual de Informação utilizando Mind Maps.
+-------------------------------------------------------------------
+Título: Uma Abordagem Colaborativa de Modelagem Conceitual de Informação utilizando Mind Maps.
 Resumen: RB Duarte, J Júnior, R Araújo, F Wanderley… - CIbSE, 2014 - academia.edu
 Citas: 0
--------------------------------------------------------------------Título: Extração de casos de teste a partir de modelos de processos de negócio.
+-------------------------------------------------------------------
+Título: Extração de casos de teste a partir de modelos de processos de negócio.
 Resumen: HP Sousa, AL de Castro Leal, A von Staa… - CIbSE, 2014 - researchgate.net
 Citas: 1
--------------------------------------------------------------------Título: Managing requirements@ run. time with a linguistic decision making approach.
+-------------------------------------------------------------------
+Título: Managing requirements@ run. time with a linguistic decision making approach.
 Resumen: R Torres, H Astudillo - CIbSE, 2014 - wer.inf.puc-rio.br
 Citas: 0
 -------------------------------------------------------------------

@@ -9,3 +9,86 @@ Título: Keynote: A Refinement Calculus for Requirements Engineering
 Resumen: J Mylopoulos - wer.inf.puc-rio.br
 Citas: 0
 -------------------------------------------------------------------
+No se encontraron resultados para el paper "Industry Panel"
+
+-------------------------------------------------------------------
+Título: Modelando Requisitos de um Jogo Educacional Médico usando a Metodología INGENIAS SCRUM.
+Resumen: FT Novo, VM da Silva, BG Ochotorena, LA Pires - WER, 2018 - inf.puc-rio.br
+Citas: 1
+-------------------------------------------------------------------
+Título: Um estudo de caso de aplicação de um método ágil para desenvolvimento de requisitos de software: O react
+Resumen: KBC Santos, SRB Oliveira - Cadernos do IME-Série …, 2018 - e-publicacoes.uerj.br
+Citas: 2
+-------------------------------------------------------------------
+Título: Requisitos não Funcionais e Sustentabilidade para Computação em Nuvem: uma Revisão Sistemática da Literatura.
+Resumen: K Camboim, FMR Alencar - WER, 2018 - researchgate.net
+Citas: 2
+-------------------------------------------------------------------
+Título: Configuração de Processos de Negócio em Organizações Públicas Considerando Informações de Contexto e Requisitos Não-Funcionais
+Resumen: FA Amora Sukar, H Monteiro, T Pereira - inf.puc-rio.br
+Citas: 0
+-------------------------------------------------------------------
+Título: Estimación de los Factores Situacionales del Proceso de Requisitos.
+Resumen: VA Ledesma, GDS Hadad, JH Doorn, NA Bedetti - WER, 2018 - researchgate.net
+Citas: 1
+-------------------------------------------------------------------
+Título: RASO: an Ontology on Requirements for the Development of Adaptive Systems.
+Resumen: CC Peçanha, BB Duarte… - Cadernos do IME …, 2018 - e-publicacoes.uerj.br
+Citas: 5
+-------------------------------------------------------------------
+Título: Requirements Engineering for Embedded Systems: The REPES Process
+Resumen: T Pereira12, F Alencar, J Castro - 2018 - inf.puc-rio.br
+Citas: 1
+-------------------------------------------------------------------
+Título: A Requirements Definition Framework for the Robotic Systems Domain-An Exploratory Study.
+Resumen: D Albuquerque, J Castro, A Sousa - WER, 2018 - inf.puc-rio.br
+Citas: 0
+-------------------------------------------------------------------
+Título: Experimentando o SPIDe aplicado à Elicitação de Requisitos.
+Resumen: JCS Rosa, E Matos, FS Santos, GJF Silva - WER, 2018 - wer.inf.puc-rio.br
+Citas: 5
+-------------------------------------------------------------------
+Título: O uso de design thinking no apoio ao desenvolvimento de software: Um estudo de caso no contexto de academias de musculação
+Resumen: L Correa, D Maria, JC Bellio… - Cadernos do IME …, 2018 - e-publicacoes.uerj.br
+Citas: 5
+-------------------------------------------------------------------
+Título: Requirements Smells como indicadores de má qualidade na especificação de requisitos: Um Mapeamento Sistemático da Literatura.
+Resumen: R Nascimento, E Aranha, U Kulesza, M Lucena - WER, 2018 - wer.inf.puc-rio.br
+Citas: 8
+-------------------------------------------------------------------
+Título: Tailoring the NFR Framework for Measuring Software Ecosystems Health.
+Resumen: S da Silva Amorim, SS Andrade, JD McGregor… - WER, 2018 - wer.inf.puc-rio.br
+Citas: 1
+-------------------------------------------------------------------
+Título: De KAOS para SysML na Modelagem de Sistemas Embarcados: Uma Revisão da Literatura.
+Resumen: T Gomes, FMR Alencar, A Sousa - WER, 2018 - wer.inf.puc-rio.br
+Citas: 0
+-------------------------------------------------------------------
+A Catalogue of iStar Extensions
+Resumen: EJT Gonçalves, T Heineck, J Araújo, J Castro - WER, 2018 - cin.ufpe.br
+Citas: 3    
+-------------------------------------------------------------------
+Título: Requisitos de Qualidade de Usabilidade: Análise da Utilização em Sistemas de uma Instituição Financeira.
+Resumen: ATS Calazans, ETS Masson, RA Paldês… - WER, 2018 - inf.puc-rio.br
+Citas: 1
+-------------------------------------------------------------------
+Título: Priorização de Requisitos em Startups no Armazém da Criatividade (Porto Digital): Resultados Preliminares.
+Resumen: G Silva, W Santos, M Lencastre - WER, 2018 - wer.inf.puc-rio.br
+Citas: 2
+-------------------------------------------------------------------
+Título: Mechanisms to Support Requirements Prioritization: A Systematic Mapping Review.
+Resumen: C Cavalcanti, M Lencastre, R Fagundes, T Santos… - WER, 2018 - wer.inf.puc-rio.br
+Citas: 5
+-------------------------------------------------------------------
+Título: Possíveis Limites do Mapeamento Sistemático: Uma Visão de Pesquisadores em Engenharia de Requisitos.
+Resumen: RLQ Portugal, AM da Mota Moura, RF de Oliveira… - WER, 2018 - inf.puc-rio.br
+Citas: 0
+-------------------------------------------------------------------
+Título: Engenharia de Requisitos Aplicada na Prática em Empresa Júnior.
+Resumen: N Goelzer, H Reinstein, R Parizi - WER, 2018
+Citas: 0
+-------------------------------------------------------------------
+Título: Apresentando o PRISE: um processo para conduzir as extensões do iStar.
+Resumen: EJT Gonçalves, J Castro, J Araújo - WER, 2018 - inf.puc-rio.br
+Citas: 0
+-------------------------------------------------------------------

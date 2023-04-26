@@ -75,13 +75,12 @@ pg = ProxyGenerator()
 pg.FreeProxies()
 scholarly.use_proxy(pg)
 
-conferences_years = ['WER22', 'WER21', 'WER20', 'WER19', 'WER18', 'WER17', 'WER16', 'WER15', 'WER14', 'WER13', 'WER12',
-                     'WER11', 'WER10', 'WER09', 'WER08', 'WER07', 'WER06', 'WER05', 'WER04', 'WER03', 'WER02', 'WER01', 'WER00', 'WER99', 'WER98']
+conferences_years = ['WER02', 'WER01', 'WER00','WER99', 'WER98']
 
 # ojo con wer18
 # Constantes
 CONFERENCE_URL = 'http://wer.inf.puc-rio.br/WERpapers/papers_by_conference.lp?conference='
-API_KEY = 'ae15db089490e290a84cecbfb9d0621e1086944bc363b3980877b05f0a000fdb'
+API_KEY = '5081c63ec9677ada462bf8ba8ce9d818cf580173f1602ffb79e0afc097caa05f'
 
 
 for year in conferences_years:
