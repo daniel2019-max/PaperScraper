@@ -1,0 +1,45 @@
+Título: Preface
+Resumen: M Schwab, WP Kaschka, E Spina - Pharmacogenomics in Psychiatry, 2010 - karger.com
+Citas: 48
+-------------------------------------------------------------------No se encontraron resultados para el paper "To be, or not to be (socially oriented ): that's the question"
+
+-------------------------------------------------------------------Título: Padrões de Escrita de Requisitos: um Mapeamento Sistemático da Literatura.
+Resumen: RC da Silva, FBV Benitti - CIbSE, 2011 - wer.inf.puc-rio.br
+Citas: 9
+-------------------------------------------------------------------Título: Using Systematic Review to Elicit Requirements of Reference Architectures.
+Resumen: EY Nakagawa, LBR Oliveira - WER, 2011 - inf.puc-rio.br
+Citas: 15
+-------------------------------------------------------------------Título: Uma Proposta de Elicitação e Análise de Requisitos no Contexto de Médias e Pequenas Empresas de Desenvolvimento de Software.
+Resumen: CF de Souza, VFA Santander - CIbSE, 2011 - inf.puc-rio.br
+Citas: 5
+-------------------------------------------------------------------Título: Estudio experimental de la efectividad de la entrevista abierta frente a la entrevista independiente de contexto
+Resumen: DH Carrizo Moreno, O Dieste Tubio, N Juristo Juzgado… - 2011 - oa.upm.es
+Citas: 0
+-------------------------------------------------------------------Título: Modelagem da atividade de elicitação de requisitos utilizando a técnica de entrevista: uma abordagem utilizando dinâmica de sistemas.
+Resumen: VO Hermsdorf, JL Braga, L Carvalho, LS Soares… - 2011 - repositorio.ufop.br
+Citas: 4
+-------------------------------------------------------------------Título: Transparência Aplicada a Modelos de Negócio.
+Resumen: AL de Castro Leal, HP Sousa, JCS do Prado Leite… - CIbSE, 2011 - wer.inf.puc-rio.br
+Citas: 9
+-------------------------------------------------------------------Título: O Método de Inspeção Semiótica Aplicado ao Requisito Usabilidade.
+Resumen: ES Monsalve, VMB Werneck, J Leite - CIbSE, 2011 - researchgate.net
+Citas: 1
+-------------------------------------------------------------------Título: Specification of failure-handling requirements as policy rules on self-adaptive systems
+Resumen: JH Pimentel, J Castro… - Anais do WER11 …, 2012 - upcommons.upc.edu
+Citas: 7
+-------------------------------------------------------------------Título: De Arquitecturas Organizacionais em i* a Arquitecturas Baseadas em Agentes: Uma abordagem orientada
+Resumen: C Silva, P Dias, J Araújo, A Moreira - academia.edu
+Citas: 0
+-------------------------------------------------------------------Título: Model interchange and tool interoperability in the i* framework: a proof of concept
+Resumen: D Colomer, L López Cuesta, C Cares… - Anais do WER11 …, 2011 - upcommons.upc.edu
+Citas: 12
+-------------------------------------------------------------------Título: Design Rationale Representation in Requirements Engineering using the KAOS meta-model.
+Resumen: EG Santos, AP de Medeiros - CIbSE, 2011 - wer.inf.puc-rio.br
+Citas: 3
+-------------------------------------------------------------------Título: A Goal Oriented Approach to Identify and Configure Feature Models for Software Product Lines.
+Resumen: C Silva, C Borba, J Castro - CIbSE, 2011 - academia.edu
+Citas: 31
+-------------------------------------------------------------------Título: Message Structures: a Modelling Technique for Information Systems Analysis and Design.
+Resumen: A González, M Ruiz, S España, Ó Pastor - WER, 2011 - academia.edu
+Citas: 13
+-------------------------------------------------------------------

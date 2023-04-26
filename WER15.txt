@@ -1,0 +1,39 @@
+Título: A Collaborative Approach to Capture the Domain Language.
+Resumen: L Antonelli, G Rossi, A Oliveros - CIbSE, 2015 - inf.puc-rio.br
+Citas: 2
+-------------------------------------------------------------------Título: Extração de requisitos apoiada por técnicas de Inteligência Artificial embutidas em ferramentas de apoio.
+Resumen: CA Lana, LG Cunha, JL Braga, APA Oliveira - CIbSE, 2015 - inf.puc-rio.br
+Citas: 0
+-------------------------------------------------------------------No se encontraron resultados para el paper "Improving Quality Model Construction Through Knowledge Reuse"
+
+-------------------------------------------------------------------No se encontraron resultados para el paper "Fuentes y técnicas para elicitación de requerimientos. Un estudio de evolución de la práctica "
+
+-------------------------------------------------------------------No se encontraron resultados para el paper "La Gestión del Conocimiento Aplicada en la Ingeniería de Requisitos: Un Caso de Estudio en Ecuador"
+
+-------------------------------------------------------------------Título: Criatividade Combinacional para Geração de Requisitos Inovadores: Um Relato de Experiência.
+Resumen: R Pinto, L Silva, M Lucena, I Santos - CIbSE, 2015 - eventos.spc.org.pe
+Citas: 3
+-------------------------------------------------------------------Título: Elicitação e Especificação de Requisitos em Sistemas Embarcados: Uma Revisão Sistemática.
+Resumen: A Sousa, C Agra, J Melo, FMR Alencar - CIbSE, 2015 - eventos.spc.org.pe
+Citas: 7
+-------------------------------------------------------------------Título: Requisitos para Softwares Educacionais Gamificados: Uma Revisão Sistemática de Literatura.
+Resumen: MM Peixoto, C Silva - CIbSE, 2015
+Citas: 3
+-------------------------------------------------------------------No se encontraron resultados para el paper "On the behaviour of context-sensitive systems"
+
+-------------------------------------------------------------------No se encontraron resultados para el paper "Integrating the E4J editor to the JGOOSE tool"
+
+-------------------------------------------------------------------No se encontraron resultados para el paper "Modeling SOA from Organizational Models"
+
+-------------------------------------------------------------------Título: A Heuristic Approach for Supporting Innovation in Requirements Engineering.
+Resumen: RAC De Souza, GA de Azevedo Cysneiros Filho… - CIbSE, 2015 - inf.puc-rio.br
+Citas: 4
+-------------------------------------------------------------------Título: Um processo colaborativo para a construção de léxicos: o caso da divulgação de transparência.
+Resumen: P Engiel, J Pivatelli, P Moura, RLQ Portugal… - CIbSE, 2015 - inf.puc-rio.br
+Citas: 5
+-------------------------------------------------------------------Título: Apoio a Configuraçao de Processos de Negócio Dinâmicos
+Resumen: T Pereira12, F Alencar, J Castro, E Alves, P Lima - 2015 - researchgate.net
+Citas: 0
+-------------------------------------------------------------------No se encontraron resultados para el paper "Trends and Needs in Requirements Engineering Research in Ibero-America"
+
+-------------------------------------------------------------------
