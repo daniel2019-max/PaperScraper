@@ -1,69 +1,92 @@
 Título: Preface
 Resumen: M Schwab, WP Kaschka, E Spina - Pharmacogenomics in Psychiatry, 2010 - karger.com
 Citas: 48
--------------------------------------------------------------------No se encontraron resultados para el paper "Organization"
+-------------------------------------------------------------------
+No se encontraron resultados para el paper "Organization"
 
--------------------------------------------------------------------No se encontraron resultados para el paper "Keynotes, Invited Talks, and Panel Session"
+-------------------------------------------------------------------
+No se encontraron resultados para el paper "Keynotes, Invited Talks, and Panel Session"
 
--------------------------------------------------------------------Título: Improving the selection of requirements elicitation techniques: a faceted guide
+-------------------------------------------------------------------
+Título: Improving the selection of requirements elicitation techniques: a faceted guide
 Resumen: RC Ignácio, FBV Benitti - Cadernos do IME-Série Informática, 2020 - e-publicacoes.uerj.br
 Citas: 4
--------------------------------------------------------------------Título: Survey Evaluation of an Approach for Dynamic Software Product Lines
+-------------------------------------------------------------------
+Título: Survey Evaluation of an Approach for Dynamic Software Product Lines
 Resumen: G Guedes, C Silva, M Soares - Cadernos do IME-Série …, 2020 - e-publicacoes.uerj.br
 Citas: 0
--------------------------------------------------------------------Título: REACT-M: O Relato de um Estudo de Caso de Aplicação de um Método Ágil para Gerência de Requisitos de Software
+-------------------------------------------------------------------
+Título: REACT-M: O Relato de um Estudo de Caso de Aplicação de um Método Ágil para Gerência de Requisitos de Software
 Resumen: BWFV da Silva¹, SRB Oliveira¹ - 2020 - inf.puc-rio.br
 Citas: 1
--------------------------------------------------------------------Título: Safety Requirements and Risk Analysis Related to Insulin Infusion Pumps: A Systematic Review.
+-------------------------------------------------------------------
+Título: Safety Requirements and Risk Analysis Related to Insulin Infusion Pumps: A Systematic Review.
 Resumen: F dos Santos Rocha, LEG Martins - WER, 2020 - wer.inf.puc-rio.br
 Citas: 0
--------------------------------------------------------------------Título: Hacia la Evaluación Automática de la Calidad de los Requerimientos de Software usando Redes Neuronales Long Short Term Memory.
+-------------------------------------------------------------------
+Título: Hacia la Evaluación Automática de la Calidad de los Requerimientos de Software usando Redes Neuronales Long Short Term Memory.
 Resumen: MG Gramajo, LC Ballejos, M Ale - WER, 2020 - inf.puc-rio.br
 Citas: 2
--------------------------------------------------------------------Título: Suporte ao rastreamento de requisitos na ferramenta JGOOSE.
+-------------------------------------------------------------------
+Título: Suporte ao rastreamento de requisitos na ferramenta JGOOSE.
 Resumen: VA Pozzan, GCL Geraldino, VFA Santander, IF da Silva - WER, 2020 - inf.puc-rio.br
 Citas: 0
--------------------------------------------------------------------Título: Comunicaçao de requisitos em quadros kanban virtuais
+-------------------------------------------------------------------
+Título: Comunicaçao de requisitos em quadros kanban virtuais
 Resumen: LAM Zaina - inf.puc-rio.br
 Citas: 0
--------------------------------------------------------------------Título: SPIDe para a Elicitação de Requisitos integrada ao Design de Interação: a percepção de especialistas em desenvolvimento de software.
+-------------------------------------------------------------------
+Título: SPIDe para a Elicitação de Requisitos integrada ao Design de Interação: a percepção de especialistas em desenvolvimento de software.
 Resumen: JCS Rosa, BB do Rêgo, F Garrido, P Valente… - WER, 2020 - researchgate.net
 Citas: 0
--------------------------------------------------------------------Título: Identificação de Requisitos de Segurança para Experimentos Científicos Embarcados.
+-------------------------------------------------------------------
+Título: Identificação de Requisitos de Segurança para Experimentos Científicos Embarcados.
 Resumen: HAC Procópio, LEG Martins, CHN Lahoz - WER, 2020 - wer.inf.puc-rio.br
 Citas: 1
--------------------------------------------------------------------Título: Requirements for a Software Audit Model in Safety-Critical Domains.
+-------------------------------------------------------------------
+Título: Requirements for a Software Audit Model in Safety-Critical Domains.
 Resumen: TMR Slavov, JC Marques, LEG Martins - WER, 2020 - wer.inf.puc-rio.br
 Citas: 0
--------------------------------------------------------------------Título: Uma Ferramenta para Construção de Catálogos de Padrões de Requisitos com Comportamento.
+-------------------------------------------------------------------
+Título: Uma Ferramenta para Construção de Catálogos de Padrões de Requisitos com Comportamento.
 Resumen: TN Kudo, R de Freitas Bulcão-Neto, AMR Vincenzi - WER, 2020 - wer.inf.puc-rio.br
 Citas: 7
--------------------------------------------------------------------No se encontraron resultados para el paper "Problemas do Design Thinking para a Engenharia de  Requisitos: uma Revisão Sistemática da Literatura"
+-------------------------------------------------------------------
+No se encontraron resultados para el paper "Problemas do Design Thinking para a Engenharia de  Requisitos: uma Revisão Sistemática da Literatura"
 
--------------------------------------------------------------------Título: Descrevendo requisitos de User eXperience em Critérios de Aceitação de User Stories.
+-------------------------------------------------------------------
+Título: Descrevendo requisitos de User eXperience em Critérios de Aceitação de User Stories.
 Resumen: JHJ Souza, LC Marques, TU Conte, LAM Zaina - WER, 2020 - inf.puc-rio.br
 Citas: 1
--------------------------------------------------------------------Título: JiStar Rastreabilidade Entre Código Java e Modelos de Metas i.
+-------------------------------------------------------------------
+Título: JiStar Rastreabilidade Entre Código Java e Modelos de Metas i.
 Resumen: AM da Mota Moura, JCS do Prado Leite - WER, 2020
 Citas: 0
--------------------------------------------------------------------Título: Os Benefícios do Uso de Ontologias em Sistemas Embarcados.
+-------------------------------------------------------------------
+Título: Os Benefícios do Uso de Ontologias em Sistemas Embarcados.
 Resumen: A Sousa, T Gomes, L Lima, FMR Alencar - WER, 2020 - inf.puc-rio.br
 Citas: 0
--------------------------------------------------------------------No se encontraron resultados para el paper "Empathy and Criativity in Privacy  Requirements Elicitation: Systematic Literature  Review"
+-------------------------------------------------------------------
+No se encontraron resultados para el paper "Empathy and Criativity in Privacy  Requirements Elicitation: Systematic Literature  Review"
 
--------------------------------------------------------------------Título: Conflitos na ER: Proposta de uma Atividade de Narrativa com auxílio de Realidade Aumentada
+-------------------------------------------------------------------
+Título: Conflitos na ER: Proposta de uma Atividade de Narrativa com auxílio de Realidade Aumentada
 Resumen: C Andrade, M Lencastre, A Barbosa… - 23rd Workshop on …, 2020 - wer.inf.puc-rio.br
 Citas: 1
--------------------------------------------------------------------Título: Avaliando a Relação entre o Catálogo de Transparência de Software eo Processo de Engenharia de Requisitos do MPS-SW.
+-------------------------------------------------------------------
+Título: Avaliando a Relação entre o Catálogo de Transparência de Software eo Processo de Engenharia de Requisitos do MPS-SW.
 Resumen: ACC da Silva, HP de Sá Sousa, EK Almentero… - WER, 2020 - inf.puc-rio.br
 Citas: 0
--------------------------------------------------------------------Título: Nfr4es: Um catálogo de requisitos nao-funcionais para sistemas embarcados
+-------------------------------------------------------------------
+Título: Nfr4es: Um catálogo de requisitos nao-funcionais para sistemas embarcados
 Resumen: RA Silva - 2019 - repositorio.ufpe.br
 Citas: 6
--------------------------------------------------------------------Título: Would you like better visualization for requirements prioritization and release planning?
+-------------------------------------------------------------------
+Título: Would you like better visualization for requirements prioritization and release planning?
 Resumen: J Pimentel, M Lencastre - WER, 2020 - wer.inf.puc-rio.br
 Citas: 3
--------------------------------------------------------------------Título: Negociação-Colaboração para Qualidade de Requisitos de Qualidade.
+-------------------------------------------------------------------
+Título: Negociação-Colaboração para Qualidade de Requisitos de Qualidade.
 Resumen: GBR Linhares, JCS do Prado Leite - WER, 2020 - inf.puc-rio.br
 Citas: 0
 -------------------------------------------------------------------
