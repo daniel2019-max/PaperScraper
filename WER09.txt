@@ -1,0 +1,59 @@
+Título: Preface
+Resumen: M Schwab, WP Kaschka, E Spina - Pharmacogenomics in Psychiatry, 2010 - karger.com
+Citas: 48
+-------------------------------------------------------------------
+No se encontraron resultados para el paper "Tacit Knowledge in Requirements"
+
+-------------------------------------------------------------------
+Título: Towards a framework for improving goal-oriented requirement models quality
+Resumen: C Cares, J Franch Gutiérrez - 12th Workshop on Requirements …, 2009 - upcommons.upc.edu
+Citas: 7
+-------------------------------------------------------------------
+No se encontraron resultados para el paper "Comparing GORE Frameworks: i-star and KAOS"
+
+-------------------------------------------------------------------
+No se encontraron resultados para el paper "An Initial Analysis on How Software  Transparency and Trust Influence each other"
+
+-------------------------------------------------------------------
+Título: Modularizando Modelos i*: uma Abordagem baseada em Transformação de Modelos.
+Resumen: M Lucena, CTLL Silva, E Santos, FMR Alencar… - WER, 2009 - wer.inf.puc-rio.br
+Citas: 3
+-------------------------------------------------------------------
+No se encontraron resultados para el paper "Descubriendo la Arquitectura de Sistemas de Software Híbridos:  Un Enfoque Basado en Modelos i*"
+
+-------------------------------------------------------------------
+Título: Um Processo de Validação de Requisitos Não-Funcionais Baseado no NFR-Framework.
+Resumen: A de Araujo Couto, LEG Martins - WER, 2009 - wer.inf.puc-rio.br
+Citas: 4
+-------------------------------------------------------------------
+Título: Explicitar Requisitos del Software usando Escenarios.
+Resumen: GDS Hadad, JH Doorn, GN Kaplan - WER, 2009 - researchgate.net
+Citas: 26
+-------------------------------------------------------------------
+Título: Facilitando la Asignación de Prioridades a los Requisitos.
+Resumen: GDS Hadad, JH Doorn, M Ridao, GN Kaplan - WER, 2009 - researchgate.net
+Citas: 18
+-------------------------------------------------------------------
+No se encontraron resultados para el paper "Una Propuesta Metodológica para Modelar Procesos de Negocio de Decisión  como Técnica de Elicitación de Requisitos para Sistemas de Business  Intelligence"
+
+-------------------------------------------------------------------
+Título: Research Findings on Empirical Evaluation of Requirements Specifications Approaches.
+Resumen: N Condori-Fernandez, M Daneva, K Sikkel… - WER, 2009 - inf.puc-rio.br
+Citas: 6
+-------------------------------------------------------------------
+Título: OpenReq: uma Ferramenta para Auxílio à Gerência de Requisitos.
+Resumen: CL Grings, M Sayão - WER, 2009 - inf.puc-rio.br
+Citas: 1
+-------------------------------------------------------------------
+Título: Towards a requirements reuse method using Product Line in distributed environments.
+Resumen: T Ebling, JLN Audy, R Prikladnicki - WER, 2009 - researchgate.net
+Citas: 6
+-------------------------------------------------------------------
+Título: A Systematic Process for Defining Meshing Tool Software Product Line Domain Model.
+Resumen: PO Rossel, MC Bastarrica, N Hitschfeld-Kahler - WER, 2009 - inf.puc-rio.br
+Citas: 6
+-------------------------------------------------------------------
+Título: Uma Avaliação sobre Rastreabilidade de Software no Contexto do MPS. BR
+Resumen: MDO Leal, SR Bezerra - Análise, 2009 - Citeseer
+Citas: None
+-------------------------------------------------------------------

@@ -67,21 +67,22 @@ def write_paper_info_to_file(name, papers, api_key):
                 file.write(
                     f'No se encontraron resultados para el paper "{paper_title}"\n\n')
             file.write(
-                f'-------------------------------------------------------------------')
+                f'-------------------------------------------------------------------\n')
 
 
 # Configuración de proxy
+# 11
+# 18
+# 5
 pg = ProxyGenerator()
 pg.FreeProxies()
 scholarly.use_proxy(pg)
 
-conferences_years = ['WER22', 'WER21', 'WER20', 'WER19', 'WER18', 'WER17', 'WER16', 'WER15', 'WER14', 'WER13', 'WER12',
-                     'WER11', 'WER10', 'WER09', 'WER08', 'WER07', 'WER06', 'WER05', 'WER04', 'WER03', 'WER02', 'WER01', 'WER00', 'WER99', 'WER98']
+conferences_years = ['WER10', 'WER09', 'WER08', 'WER07', 'WER06', 'WER05', 'WER04', 'WER03', 'WER02', 'WER01', 'WER00', 'WER99', 'WER98']
 
-# ojo con wer18
 # Constantes
 CONFERENCE_URL = 'http://wer.inf.puc-rio.br/WERpapers/papers_by_conference.lp?conference='
-API_KEY = 'ae15db089490e290a84cecbfb9d0621e1086944bc363b3980877b05f0a000fdb'
+API_KEY = ''
 
 
 for year in conferences_years:

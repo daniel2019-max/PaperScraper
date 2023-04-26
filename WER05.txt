@@ -1,0 +1,24 @@
+Título: Agent/goal orientation versus object orientation for requirements engineering: A practical evaluation using an exemplar
+Resumen: LM Cysneiros, V Werneck, J Amaral… - Proc. of VIII Workshop in …, 2005 - academia.edu
+Citas: 22
+-------------------------------------------------------------------
+Título: Uso de Agentes no Processo de Requisitos em Ambientes Distribuídos de Desenvolvimento
+Resumen: PUC PUC-RS - academia.edu
+Citas: 0
+-------------------------------------------------------------------
+Título: A Survey of Good Practices and Misuses for Modelling with i* Framework.
+Resumen: I Webster, J Amaral, LM Cysneiros Filho - WER, 2005 - academia.edu
+Citas: 10
+-------------------------------------------------------------------
+Título: Metamorfosis: Un Marco para el Análisis de Requisitos Funcionales.
+Resumen: I Díaz, J Sánchez, O Pastor - WER, 2005 - inf.puc-rio.br
+Citas: 16
+-------------------------------------------------------------------
+Título: A Content Analysis Technique for Inconsistency Detection in Software Requirements Documents.
+Resumen: A Fantechi, E Spinicci - WER, 2005 - academia.edu
+Citas: 41
+-------------------------------------------------------------------
+Título: Using Task Descriptions for the Specification of Web Application Requirements.
+Resumen: P Valderas, J Fons, V Pelechano - WER, 2005 - wer.inf.puc-rio.br
+Citas: 17
+-------------------------------------------------------------------
