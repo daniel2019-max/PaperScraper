@@ -1,0 +1,92 @@
+Título: Agent/goal orientation versus object orientation for requirements engineering: A practical evaluation using an exemplar
+Resumen: LM Cysneiros, V Werneck, J Amaral… - Proc. of VIII Workshop in …, 2005 - academia.edu
+Citas: 22
+-------------------------------------------------------------------
+Título: Uso de Agentes no Processo de Requisitos em Ambientes Distribuídos de Desenvolvimento
+Resumen: PUC PUC-RS - academia.edu
+Citas: 0
+-------------------------------------------------------------------
+Título: A Survey of Good Practices and Misuses for Modelling with i* Framework.
+Resumen: I Webster, J Amaral, LM Cysneiros Filho - WER, 2005 - academia.edu
+Citas: 10
+-------------------------------------------------------------------
+Título: Metamorfosis: Un Marco para el Análisis de Requisitos Funcionales.
+Resumen: I Díaz, J Sánchez, O Pastor - WER, 2005 - inf.puc-rio.br
+Citas: 16
+-------------------------------------------------------------------
+Título: A Content Analysis Technique for Inconsistency Detection in Software Requirements Documents.
+Resumen: A Fantechi, E Spinicci - WER, 2005 - academia.edu
+Citas: 41
+-------------------------------------------------------------------
+Título: Using Task Descriptions for the Specification of Web Application Requirements.
+Resumen: P Valderas, J Fons, V Pelechano - WER, 2005 - wer.inf.puc-rio.br
+Citas: 17
+-------------------------------------------------------------------
+Modelagem Informacional de Requisitos
+Resumen: MH Fortuna, MRS Borges - WER, 2005 - inf.puc-rio.br
+Citas: 8
+-------------------------------------------------------------------
+Título: Comparing Requirement Engineering Approaches for Handling Crosscutting Concerns.
+Resumen: R Chitchyan, A Rashid, P Sawyer - WER, 2005 - wer.inf.puc-rio.br
+Citas: 24
+-------------------------------------------------------------------
+Título: Uma Linguagem de Modelagem de Requisitos Orientada a Aspectos.
+Resumen: LF da Silva, JCS do Prado Leite - WER, 2005 - wer.inf.puc-rio.br
+Citas: 12
+-------------------------------------------------------------------
+Título: Multi-Perspective Requirements Engineering for Networked Business Systems: A Framework for Pattern Composition.
+Resumen: Z Zlatev, M Daneva, RJ Wieringa - WER, 2005 - academia.edu
+Citas: 4
+-------------------------------------------------------------------
+Título: Towards a Cognitive-Based Approach to Distributed Requirement Elicitation Processes.
+Resumen: GN Aranda, A Vizcaíno, A Cechich, M Piattini - WER, 2005 - academia.edu
+Citas: 17
+-------------------------------------------------------------------
+Título: Uma Abordagem Baseada em Gestão do Conhecimento para Gerência de Requisitos em Desenvolvimento Distribuído de Software.
+Resumen: RS de Espindola, L Lopes, R Prikladnicki, JLN Audy - WER, 2005 - inf.puc-rio.br
+Citas: 20
+-------------------------------------------------------------------
+Título: Aplicación de un Enfoque Intencional al Análisis de Variabilidad.
+Resumen: B González-Baixauli, MA Laguna, JCS do Prado Leite - WER, 2005 - wer.inf.puc-rio.br
+Citas: 8
+-------------------------------------------------------------------
+Título: Reusable Knowledge for Achieving Privacy: A Canadian Health Information Technologies Perspective.
+Resumen: I Webster, V Ivanova, LM Cysneiros - WER, 2005 - Citeseer
+Citas: 23
+-------------------------------------------------------------------
+Título: É possível substituir processos de Engenharia de Requisitos por Contagem de Pontos de Função?.
+Resumen: C Hazan, DM Berry, JCS do Prado Leite - WER, 2005 - wer.inf.puc-rio.br
+Citas: 8
+-------------------------------------------------------------------
+Título: Uma análise do método ágil Scrum conforme abordagem nas áreas de processo Gerenciamento e Desenvolvimento de Requisitos do CMMI.
+Resumen: AL Zanatta, P Vilain - WER, 2005 - wer.inf.puc-rio.br
+Citas: 14
+-------------------------------------------------------------------
+Título: A Process for Requirement Traceability in Agent Oriented Development.
+Resumen: RC Pinto, CTLL Silva, J Castro - WER, 2005 - researchgate.net
+Citas: 9
+-------------------------------------------------------------------
+Título: Avaliação de uma Metodologia de Medição da Qualidade em um Documento de Requisitos Orientado a Aspectos.
+Resumen: RA Ramos, JB de Castro - WER, 2005 - wer.inf.puc-rio.br
+Citas: 6
+-------------------------------------------------------------------
+Título: Avaliando a Qualidade da Técnica GUCCRA com Técnica de Inspeção.
+Resumen: A Belgamo, SCPF Fabbri, JC Maldonado - WER, 2005 - inf.puc-rio.br
+Citas: 5
+-------------------------------------------------------------------
+Un Marco para la Definición de Métricas sobre Modelos de Dependencias entre Actores
+Resumen: J Franch Gutiérrez, G Grau Colom… - WER 2005: VIII …, 2005 - upcommons.upc.edu
+Citas: 0
+-------------------------------------------------------------------
+Título: Elicitación de requisitos en sistemas de gestión orientados a procesos.
+Resumen: I Villanueva, J Sánchez, Ó Pastor - WER, 2005 - inf.puc-rio.br
+Citas: 20
+-------------------------------------------------------------------
+Título: Elicitación de Objetivos a partir de Escenarios.
+Resumen: PJ Thomas, A Oliveros - WER, 2005 - wer.inf.puc-rio.br
+Citas: 3
+-------------------------------------------------------------------
+Título: Requirement Elicitation Based on Goals with Security and Privacy Policies in Electronic Commerce.
+Resumen: SV da Rocha, Z Abdelouahab, E Freire - WER, 2005 - researchgate.net
+Citas: 7
+-------------------------------------------------------------------

@@ -1,0 +1,61 @@
+No se encontraron resultados para el paper "Organization"
+
+-------------------------------------------------------------------
+Título: Preface
+Resumen: M Schwab, WP Kaschka, E Spina - Pharmacogenomics in Psychiatry, 2010 - karger.com
+Citas: 48
+-------------------------------------------------------------------
+No se encontraron resultados para el paper "Table of Contents"
+
+-------------------------------------------------------------------
+Título: Requirements Engineering. A market viewpoint.
+Resumen: A Oliveros - WER, 2010 - grise.upm.es
+Citas: 0
+-------------------------------------------------------------------
+Título: Cómo crear piezas de conocimiento en ingeniería de requisitos: replicación y agregación experimentales.
+Resumen: O Dieste - WER, 2010
+Citas: 0
+-------------------------------------------------------------------
+Título: A Goal-Oriented Approach for Variability in BPMN.
+Resumen: E Santos, J Castro, J Sánchez, O Pastor - WER, 2010 - inf.puc-rio.br
+Citas: 45
+-------------------------------------------------------------------
+Título: G2SPL: Um Processo de Engenharia de Requisitos Orientada a Objetivos para Linhas de Produtos de Software.
+Resumen: CTLL Silva, C Borba, J Castro - WER, 2010 - wer.inf.puc-rio.br
+Citas: 9
+-------------------------------------------------------------------
+No se encontraron resultados para el paper "Integração de Requisitos Não-Funcionais a Processos de Negócio: Integrando BPMN e NFR"
+
+-------------------------------------------------------------------
+Título: Um estudo de campo sobre o estado da prática da elicitaçao de requisitos em sistemas embarcados
+Resumen: JC Ossada¹, LEG Martins - 2010 - inf.puc-rio.br
+Citas: 11
+-------------------------------------------------------------------
+Título: From User Requirements to Tasks Descriptions in Real-Time Systems.
+Resumen: L Ordinez, D Donari, RM Santos, J Orozco - WER, 2010 - academia.edu
+Citas: 6
+-------------------------------------------------------------------
+Título: Evolución de un Juego Educacional de Ingeniería de Software a través de Técnicas de Elicitación de Requisitos
+Resumen: E Monsalve, V Werneck, J Leite - Proceedings of XIII Workshop on …, 2010 - inf.puc-rio.br
+Citas: 15
+-------------------------------------------------------------------
+Título: Uma Análise Avaliativa de Ferramentas de Software Livre no Contexto da Implementação do Processo de Gerência de Requisitos do MPS. BR.
+Resumen: ABC Junior, LN Bentes, M Ronny, SRB Oliveira… - WER, 2010 - inf.puc-rio.br
+Citas: 3
+-------------------------------------------------------------------
+Título: Um Modelo de Rastreabilidade com suporte ao Gerenciamento de Mudanças e Análise de Impacto.
+Resumen: P Dall'Oglio, JPS da Silva, SCC da Silva Pinto - WER, 2010 - inf.puc-rio.br
+Citas: 3
+-------------------------------------------------------------------
+Título: TERASE: Template para Especificação de Requisitos de Ambiente em Sistemas Embarcados.
+Resumen: LEG Martins, R de Souza Júnior, HP de Oliveira Jr… - WER, 2010 - academia.edu
+Citas: 11
+-------------------------------------------------------------------
+Título: A Tool for Formal Feature Modeling Based on BDDs and Product Families Algebra.
+Resumen: F Alturki, R Khedri - WER, 2010 - inf.puc-rio.br
+Citas: 7
+-------------------------------------------------------------------
+Título: Lenguaje de Especificación para el Framework Tropos.
+Resumen: A Martínez, C Velasco, E Morales, H Estrada, LA Gama - WER, 2010 - inf.puc-rio.br
+Citas: 0
+-------------------------------------------------------------------
