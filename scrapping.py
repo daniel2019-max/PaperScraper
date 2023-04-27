@@ -83,8 +83,6 @@ conferences_years = ['WER02', 'WER01', 'WER00','WER99', 'WER98']
 # Constantes
 CONFERENCE_URL = 'http://wer.inf.puc-rio.br/WERpapers/papers_by_conference.lp?conference='
 API_KEY = '5081c63ec9677ada462bf8ba8ce9d818cf580173f1602ffb79e0afc097caa05f'
-API_KEY = ''
-
 
 for year in conferences_years:
     conference_url = CONFERENCE_URL + year
