@@ -1,0 +1,78 @@
+Título: Organizando o Processo de Elicitação de Requisitos Utilizando o Conceito de Atividade.
+Resumen: LEG Martins, BM Daltrini - WER, 2001 - inf.puc-rio.br
+Citas: 8
+-------------------------------------------------------------------
+Título: Requirements elicitation using a combination of prototypes and scenarios
+Resumen: M Mannio, U Nikula - WER, 2001 - academia.edu
+Citas: 50
+-------------------------------------------------------------------
+Título: Um método para elicitação e modelagem de requisitos baseado em objetivos
+Resumen: MCF CARVALHO - 2002 - tedebc.ufma.br
+Citas: 5
+-------------------------------------------------------------------
+Título: Metodología DoRCU para la Ingeniería de Requerimientos
+Resumen: M Griselda Báez, SI Barba Brunner - WorkShop on Requirement Engineering, 2001
+Citas: 2
+-------------------------------------------------------------------
+Título: Generación automática de un esquema conceptual OO a partir de un modelo de flujo de trabajo
+Resumen: H Estrada, A Martínez, O Pastor, J Ortiz, OA Ríos - framework - inf.puc-rio.br
+Citas: 0
+-------------------------------------------------------------------
+Título: Developing Use Cases from Organizational Modeling.
+Resumen: VFA Santander, J Castro - WER, 2001 - inf.puc-rio.br
+Citas: 19
+-------------------------------------------------------------------
+Título: Un Proceso para XR basado en Reglas de Negocio.
+Resumen: MC Leonardi, JCS do Prado Leite - WER, 2001 - inf.puc-rio.br
+Citas: 0
+-------------------------------------------------------------------
+Título: Traceability en la Etapa de Elicitación de Requerimientos
+Resumen: RL Antonelli, A Oliveros - … de Investigadores en Ciencias de la …, 2000 - sedici.unlp.edu.ar
+Citas: 10
+-------------------------------------------------------------------
+No se encontraron resultados para el paper "Analysing the Tradeoffs Among Requirements, Architectures and COTS Components"
+
+-------------------------------------------------------------------
+Título: Tratamento da Informação (Requisitos no Ciclo de Vida do Produto) Caso Prático: Sistema de Informações de Previdência
+Resumen: EP Zanlorenci, RCO Burnett - WER - inf.puc-rio.br
+Citas: 3
+-------------------------------------------------------------------
+Título: Uma Estratégia para Implantação de uma Gerência de Requisitos visando a Melhoria dos Processos de Software
+Resumen: AE Carvalho, H Tavares, JB Castro - WER01. Buenos Aires …, 2001 - wer.inf.puc-rio.br
+Citas: 23
+-------------------------------------------------------------------
+No se encontraron resultados para el paper "Requirements Processes: An Experience Report"
+
+-------------------------------------------------------------------
+Título: Um Modelo de Avaliação de Especificações Semi-Formais de Requisitos de Software Baseado na Teoria dos Conjuntos Nebulosos
+Resumen: LEG Martins, AEA da Silva - inf.puc-rio.br
+Citas: 0
+-------------------------------------------------------------------
+Título: Comprobación Automática de Requisitos de Calidad en Sistemas Multiorganizacionales
+Resumen: A Ruiz Cortés, A Durán Toro, R Corchuelo Gil… - 2001 - idus.us.es
+Citas: 0
+-------------------------------------------------------------------
+Título: An XML-Based Approach for the Automatic Verification of Software Requirements Specifications
+Resumen: A Durán Toro, B Bernárdez Jiménez, A Ruiz Cortés… - 2001 - idus.us.es
+Citas: 0
+-------------------------------------------------------------------
+Título: Automatic Derivation of Workflow Specifications from Organizational Structures and Use Cases.
+Resumen: MC Penadés, JH Canós, JS Díaz - WER, 2001 - wer.inf.puc-rio.br
+Citas: 3
+-------------------------------------------------------------------
+Título: A non-functional approach for COTS components trading
+Resumen: L Iribarne, A Vallecillo, C Alves, J Castro - 2002 - repositorio.ual.es
+Citas: 33
+-------------------------------------------------------------------
+Título: Using the Language Extended Lexicon to Support Non-Functional Requirements Elicitation.
+Resumen: LM Cysneiros, JCS do Prado Leite - WER, 2001 - wer.inf.puc-rio.br
+Citas: 27
+-------------------------------------------------------------------
+Título: Reutilização de Objetivos na Engenharia de Requisitos.
+Resumen: KD Fook, Z Abdelouahab - WER, 2001 - inf.puc-rio.br
+Citas: 2
+-------------------------------------------------------------------
+Título: Incorporación de Patrones al Proceso de Construcción de Escenarios.
+Resumen: M Ridao, JH Doorn, JCS do Prado Leite - WER, 2001 - wer.inf.puc-rio.br
+Citas: 6
+-------------------------------------------------------------------

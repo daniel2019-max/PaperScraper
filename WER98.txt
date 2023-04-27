@@ -1,0 +1,54 @@
+Título: Uma ferramenta baseada em regras heurísticas para gerar especificações diagramáticas de requisitos orientadas a objeto
+Resumen: J Hartmann, CS Trindade, JMV Castilho… - Salão de Iniciação …, 1998 - lume.ufrgs.br
+Citas: 0
+-------------------------------------------------------------------
+Título: Derivación de objetos utilizando LEL y Escenarios en un caso real
+Resumen: M Del Fresno, V Mauco, M Ridao, J Doorn, L Rivero - 2015 - 190.221.29.250
+Citas: 3
+-------------------------------------------------------------------
+No se encontraron resultados para el paper "Organizando Processos de Requisitos"
+
+-------------------------------------------------------------------
+Título: Una Estrategia de Análisis Orientada a Objetos basada en Escenarios: Aplicación en un Caso Real.
+Resumen: LC Rivero, JH Doorn, M del FRESNO, MV Mauco… - WER, 1998 - academia.edu
+Citas: 18
+-------------------------------------------------------------------
+Título: Modelo para Qualificação da Fonte de Informação do Cliente e de Requisito Funcional.
+Resumen: EP Zanlorenci, RC Burnett - WER, 1998 - inf.puc-rio.br
+Citas: 19
+-------------------------------------------------------------------
+Título: Un modelo de hipertexto para la especificación de Requisitos.
+Resumen: MC Leonardi, G Rossi, JCS do Prado Leite - WER, 1998 - inf.puc-rio.br
+Citas: 4
+-------------------------------------------------------------------
+Título: Requisitos de Hiperdocumentos de suporte ao domínio de Engenharia Reversa de Software.
+Resumen: VD Feltrim, RP de Mattos Fortes - WER, 1998 - inf.puc-rio.br
+Citas: 2
+-------------------------------------------------------------------
+Título: Inspección de escenarios
+Resumen: JH Doorn, G Kaplan, G Hadad… - 1998 - 190.221.29.250
+Citas: 15
+-------------------------------------------------------------------
+Título: Especificação de Requisitos de Software com o Método SCR.
+Resumen: FR Carpena, TG Kirner - WER, 1998 - wer.inf.puc-rio.br
+Citas: 0
+-------------------------------------------------------------------
+Título: Erace-Tool-Uma ferramenta baseada em cenários para à engenharia de requisitos.
+Resumen: JC Júnior, PM Masiero - WER, 1998 - inf.puc-rio.br
+Citas: 1
+-------------------------------------------------------------------
+No se encontraron resultados para el paper "Utilizando Requisitos Não Funcionais para Análise de Modelos Orientados a Dados "
+
+-------------------------------------------------------------------
+Título: Guidelines From Organizational Requirements to Formal Specification
+Resumen: FMR de Alencar, JFB Castro - 1998 - inf.puc-rio.br
+Citas: 2
+-------------------------------------------------------------------
+Título: Suporte Automatizado à Gerência da Evolução de Cenários.
+Resumen: KK Breitman, JCS do Prado Leite - WER, 1998 - inf.puc-rio.br
+Citas: 10
+-------------------------------------------------------------------
+Título: Towards Requirements Engineering of Active Database Systems.
+Resumen: JH Canós, JJ Martínez, I Ramos - WER, 1998 - Citeseer
+Citas: None
+-------------------------------------------------------------------
