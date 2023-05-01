@@ -6,7 +6,7 @@ Título: Rastreamento e Gerenciamento de Requisitos em Busca da Conformidade Leg
 Resumen: I Santos, E Miranda, M Lucena - CIbSE, 2017 - inf.puc-rio.br
 Citas: 1
 -------------------------------------------------------------------
-A Survey on Preferences of Quality Attributes in the Decision-making for Self-Adaptive Systems: the Bad, the Good and the Ugly
+Título: A Survey on Preferences of Quality Attributes in the Decision-making for Self-Adaptive Systems: the Bad, the Good and the Ugly
 Resumen: LHG Paucar, N Bencomo - 2017 - publications.aston.ac.uk
 Citas: 1
 -------------------------------------------------------------------
@@ -22,7 +22,7 @@ Título: Retrospective and Trends in Requirements Engineering for Embedded Syste
 Resumen: T Pereira, D Albuquerque, A Sousa, FMR Alencar… - CIbSE, 2017 - inf.puc-rio.br
 Citas: 10
 -------------------------------------------------------------------
-Requirements Engineering Practice and Problems in Agile Projects: Results from an International Survey
+Título: Requirements Engineering Practice and Problems in Agile Projects: Results from an International Survey
 Resumen: S Wagner, DM Fernández, M Felderer… - arXiv preprint arXiv …, 2017 - arxiv.org
 Citas: 35
 -------------------------------------------------------------------

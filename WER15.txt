@@ -6,15 +6,15 @@ Título: Extração de requisitos apoiada por técnicas de Inteligência Artific
 Resumen: CA Lana, LG Cunha, JL Braga, APA Oliveira - CIbSE, 2015 - inf.puc-rio.br
 Citas: 0
 -------------------------------------------------------------------
-Improving Quality Model Construction Through Knowledge Reuse
+Título: Improving Quality Model Construction Through Knowledge Reuse
 Resumen: A Oliveros, L Antonelli - WER, 2015
 Citas: 0
 -------------------------------------------------------------------
-Fuentes y técnicas para elicitación de requerimientos. Un estudio de evolución de la práctica
+Título: Fuentes y técnicas para elicitación de requerimientos. Un estudio de evolución de la práctica
 Resumen: JP Carvallo Vega, J Franch Gutiérrez… - … Perú, Abril 22, 23, e 24 …, 2015 - upcommons.upc.edu
 Citas: 2
 -------------------------------------------------------------------
-La Gestión del Conocimiento Aplicada en la Ingeniería de Requisitos: Un Caso de Estudio en Ecuador
+Título: La Gestión del Conocimiento Aplicada en la Ingeniería de Requisitos: Un Caso de Estudio en Ecuador
 Resumen: C HINOJOSA, G RAURA, ER FONSECA, O DIESTE - Sl: WER15
 Citas: 3
 -------------------------------------------------------------------
@@ -32,11 +32,11 @@ Citas: 3
 -------------------------------------------------------------------
 No se encontraron resultados para el paper "On the behaviour of context-sensitive systems"
 -------------------------------------------------------------------
-Integrating the E4J editor to the JGOOSE tool
+Título: Integrating the E4J editor to the JGOOSE tool
 Resumen: LP Merlin, AL de Borba Silva, VFA Santander… - CIbSE, 2015 - eventos.spc.org.pe
 Citas: 8
 -------------------------------------------------------------------
-Modeling SOA from Organizational Models
+Título: Modeling SOA from Organizational Models
 Resumen: OS de Oliveira, C Silva - CIbSE, 2015
 Citas: 0
 -------------------------------------------------------------------
@@ -52,7 +52,7 @@ Título: Apoio a Configuraçao de Processos de Negócio Dinâmicos
 Resumen: T Pereira12, F Alencar, J Castro, E Alves, P Lima - 2015 - researchgate.net
 Citas: 0
 -------------------------------------------------------------------
-Trends and Needs in Requirements Engineering Research in Ibero-America
+Título: Trends and Needs in Requirements Engineering Research in Ibero-America
 Resumen: IS Brito, JL de la Vara - WER, 2015 - eventos.spc.org.pe
 Citas: 0
 -------------------------------------------------------------------

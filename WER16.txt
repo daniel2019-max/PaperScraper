@@ -30,7 +30,7 @@ Título: Uso de un Léxico y Escenarios para Mitigar Amenazas a Requisitos en el
 Resumen: JP Mighetti, GDS Hadad - CIbSE, 2016 - inf.puc-rio.br
 Citas: 2
 -------------------------------------------------------------------
-Um modelo para tratamento de ambiguidades em requisitos de evolução de sistemas jurídicos baseado em mapeamento conceitual
+Título: Um modelo para tratamento de ambiguidades em requisitos de evolução de sistemas jurídicos baseado em mapeamento conceitual
 Resumen: LGF Aguiar, RT da Silva, EC Genvigir, JA Fabri… - CIbSE, 2016 - inf.puc-rio.br
 Citas: 3
 -------------------------------------------------------------------

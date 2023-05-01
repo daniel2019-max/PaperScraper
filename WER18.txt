@@ -64,7 +64,7 @@ Título: De KAOS para SysML na Modelagem de Sistemas Embarcados: Uma Revisão da
 Resumen: T Gomes, FMR Alencar, A Sousa - WER, 2018 - wer.inf.puc-rio.br
 Citas: 0
 -------------------------------------------------------------------
-A Catalogue of iStar Extensions
+Título: A Catalogue of iStar Extensions
 Resumen: EJT Gonçalves, T Heineck, J Araújo, J Castro - WER, 2018 - cin.ufpe.br
 Citas: 3    
 -------------------------------------------------------------------
