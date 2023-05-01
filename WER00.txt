@@ -18,8 +18,9 @@ Título: O Uso do Framework NFR no Projeto de Banco de Dados Distribuído
 Resumen: M Santos, M Lencastre, JB de Castro, D Fonseca - Citeseer
 Citas: None
 -------------------------------------------------------------------
-No se encontraron resultados para el paper "Inspección Del Lexico Extendido Del Lenguaje"
-
+Inspección Del Lexico Extendido Del Lenguaje
+Resumen: GN Kaplan, GDS Hadad, JH Doorn… - 2000 - repositorio.ub.edu.ar
+Citas: 45
 -------------------------------------------------------------------
 Título: HeAR, Una herramienta de Adquisición de Requistos.
 Resumen: L Petersen, S Tornabene, MC Leonardi, JH Doorn - WER, 2000 - inf.puc-rio.br
@@ -37,8 +38,9 @@ Título: Prototipado de interfaces de usuario a partir de escenarios y modelos U
 Resumen: JS Díaz, AA Vila, O Pastor, JJ Fons - WER, 2000 - inf.puc-rio.br
 Citas: 1
 -------------------------------------------------------------------
-No se encontraron resultados para el paper "From Early Requirements Modeled by the i* Technique to Later Requirements Modeled in Precise UML"
-
+From Early Requirements Modeled by the i* Technique to Later Requirements Modeled in Precise UML
+Resumen: FMR Alencar, J Castro, GA Cysneiros Filho… - WER, 2000 - researchgate.net
+Citas: 55
 -------------------------------------------------------------------
 Título: Requirements Engineering for COTS Selection.
 Resumen: CF Alves, FMR Alencar, J Castro - WER, 2000 - Citeseer

@@ -6,8 +6,9 @@ Título: Derivación de objetos utilizando LEL y Escenarios en un caso real
 Resumen: M Del Fresno, V Mauco, M Ridao, J Doorn, L Rivero - 2015 - 190.221.29.250
 Citas: 3
 -------------------------------------------------------------------
-No se encontraron resultados para el paper "Organizando Processos de Requisitos"
-
+Organizando Processos de Requisitos
+Resumen: ST Fiorini, JCS do Prado Leite, CJP de Lucena - WER, 1998 - inf.puc-rio.br
+Citas: 13
 -------------------------------------------------------------------
 Título: Una Estrategia de Análisis Orientada a Objetos basada en Escenarios: Aplicación en un Caso Real.
 Resumen: LC Rivero, JH Doorn, M del FRESNO, MV Mauco… - WER, 1998 - academia.edu
@@ -37,8 +38,9 @@ Título: Erace-Tool-Uma ferramenta baseada em cenários para à engenharia de re
 Resumen: JC Júnior, PM Masiero - WER, 1998 - inf.puc-rio.br
 Citas: 1
 -------------------------------------------------------------------
-No se encontraron resultados para el paper "Utilizando Requisitos Não Funcionais para Análise de Modelos Orientados a Dados "
-
+Utilizando Requisitos Não Funcionais para Análise de Modelos Orientados a Dados 
+Resumen: LM Cysneiros, JCS do Prado Leite - WER, 1998 - wer.inf.puc-rio.br
+Citas: 12
 -------------------------------------------------------------------
 Título: Guidelines From Organizational Requirements to Formal Specification
 Resumen: FMR de Alencar, JFB Castro - 1998 - inf.puc-rio.br
@@ -50,5 +52,5 @@ Citas: 10
 -------------------------------------------------------------------
 Título: Towards Requirements Engineering of Active Database Systems.
 Resumen: JH Canós, JJ Martínez, I Ramos - WER, 1998 - Citeseer
-Citas: None
+Citas: 0
 -------------------------------------------------------------------

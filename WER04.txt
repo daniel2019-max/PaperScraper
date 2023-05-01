@@ -10,8 +10,9 @@ Título: Designing Communication-intensive Web Applications: a Case Study.
 Resumen: V Perrone, D Bolchini - WER, 2004 - inf.puc-rio.br
 Citas: 4
 -------------------------------------------------------------------
-No se encontraron resultados para el paper "Structural Testing with Use Cases"
-
+Structural Testing with Use Cases
+Resumen: A Carniello, M Jino, ML Chaim - Journal of Computer Science & …, 2005 - sedici.unlp.edu.ar
+Citas: 12
 -------------------------------------------------------------------
 Título: Satisficing the Conflicting Software Qualities of Maintainability and Performance at the Source Code Level.
 Resumen: B Andreopoulos - WER, 2004 - inf.puc-rio.br

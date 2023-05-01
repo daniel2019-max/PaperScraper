@@ -6,11 +6,13 @@ Título: Writing Use Cases Modelled with Situation Theory.
 Resumen: FAC Pinheiro, ID López - WER, 2002 - inf.puc-rio.br
 Citas: 7
 -------------------------------------------------------------------
-No se encontraron resultados para el paper "Enhancing Data Warehouse Design with the NFR Framework"
-
+Enhancing Data Warehouse Design with the NFR Framework
+Resumen: FRS Paim, J Castro - Wer, 2002 - inf.puc-rio.br
+Citas: 33
 -------------------------------------------------------------------
-No se encontraron resultados para el paper "Metamodeling for Requirements Reuse"
-
+Metamodeling for Requirements Reuse
+Resumen: O López, MÁ Laguna Serrano, FJ García-Peñalvo - 2002 - gredos.usal.es
+Citas: 40
 -------------------------------------------------------------------
 Título: Support for Structuring Mechanisms in the integration of Organizational Requirements and Object Oriented Modeling
 Resumen: FMR Alencar, GAA Cysneiro Filho… - Anais do V Workshop on …, 2002 - inf.puc-rio.br
@@ -60,19 +62,23 @@ Título: Modelado de Anomalías mediante Escenarios.
 Resumen: M Ridao, JH Doorn - WER, 2002 - inf.puc-rio.br
 Citas: 0
 -------------------------------------------------------------------
-No se encontraron resultados para el paper "Generación de Especificaciones de Requisitos de Software a Partir de Modelos de Negocios: Un Enfoque"
-
+Generación de Especificaciones de Requisitos de Software a Partir de Modelos de Negocios: Un Enfoque
+Resumen: H Estrada, A Martínez, O Pastor… - V Workshop on …, 2002 - wer.inf.puc-rio.br
+Citas: 22
 -------------------------------------------------------------------
-No se encontraron resultados para el paper "Uma Proposta para Melhorar o Rastreamento de Requisitos"
-
+Uma Proposta para Melhorar o Rastreamento de Requisitos
+Resumen: M Toranzo, J Castro, E Mello - WER, 2002 - researchgate.net
+Citas: 31
 -------------------------------------------------------------------
-No se encontraron resultados para el paper "SmartTrace: Una Herramienta para Trazabilidad de Requisitos en Proyectos basados en UML"
-
+SmartTrace: Una Herramienta para Trazabilidad de Requisitos en Proyectos basados en UML
+Resumen: V Anaya, P Letelier - WER, 2002 - wer.inf.puc-rio.br
+Citas: 8
 -------------------------------------------------------------------
 Título: Relato de Experiência de Ensino de Engenharia de Requisitos em um Curso de Mestrado em Sistemas de Informação
 Resumen: LEG Martins - Workshop on Requirements Enginnering, 2002 - inf.puc-rio.br
 Citas: 3
 -------------------------------------------------------------------
-No se encontraron resultados para el paper "Medição de Pontos por Função a Partir da Especificação de Requisitos"
-
+Medição de Pontos por Função a Partir da Especificação de Requisitos
+Resumen: HCAB Tavares, AES de Carvalho, J Castro - WER, 2002 - wer.inf.puc-rio.br
+Citas: 29
 -------------------------------------------------------------------

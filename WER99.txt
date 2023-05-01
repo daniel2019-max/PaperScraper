@@ -10,8 +10,9 @@ Título: LogicOO uma metodologia para modelagem e construção de sistemas multi
 Resumen: G Guizzardi, JG Pereira Filho - WER, 1999 - inf.puc-rio.br
 Citas: 2
 -------------------------------------------------------------------
-No se encontraron resultados para el paper "A Knowledge Acquisition Systematic within the Domain Analysis Context"
-
+A Knowledge Acquisition Systematic within the Domain Analysis Context
+Resumen: MZ Roseti, CML Werner - WER, 1999 - wer.inf.puc-rio.br
+Citas: 5
 -------------------------------------------------------------------
 Título: Activity Theory: a Framework to Software Requirements Elicitation
 Resumen: L Eduardo, B Daltrini - 2008 - Citeseer

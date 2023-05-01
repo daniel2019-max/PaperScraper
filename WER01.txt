@@ -30,8 +30,9 @@ Título: Traceability en la Etapa de Elicitación de Requerimientos
 Resumen: RL Antonelli, A Oliveros - … de Investigadores en Ciencias de la …, 2000 - sedici.unlp.edu.ar
 Citas: 10
 -------------------------------------------------------------------
-No se encontraron resultados para el paper "Analysing the Tradeoffs Among Requirements, Architectures and COTS Components"
-
+Analysing the Tradeoffs Among Requirements, Architectures and COTS Components
+Resumen: CF Alves, JB Pinto Filho, J Castro - WER, 2001 - inf.puc-rio.br
+Citas: 10
 -------------------------------------------------------------------
 Título: Tratamento da Informação (Requisitos no Ciclo de Vida do Produto) Caso Prático: Sistema de Informações de Previdência
 Resumen: EP Zanlorenci, RCO Burnett - WER - inf.puc-rio.br
@@ -41,8 +42,9 @@ Título: Uma Estratégia para Implantação de uma Gerência de Requisitos visan
 Resumen: AE Carvalho, H Tavares, JB Castro - WER01. Buenos Aires …, 2001 - wer.inf.puc-rio.br
 Citas: 23
 -------------------------------------------------------------------
-No se encontraron resultados para el paper "Requirements Processes: An Experience Report"
-
+Requirements Processes: An Experience Report
+Resumen: JC Sampaio do Prado Leite, ST Fiorini, A Durán Toro… - 2001 - idus.us.es
+Citas: 0
 -------------------------------------------------------------------
 Título: Um Modelo de Avaliação de Especificações Semi-Formais de Requisitos de Software Baseado na Teoria dos Conjuntos Nebulosos
 Resumen: LEG Martins, AEA da Silva - inf.puc-rio.br
