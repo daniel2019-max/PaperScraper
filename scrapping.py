@@ -8,6 +8,17 @@ from difflib import SequenceMatcher
 
 
 def calc_similarity(str1, str2):
+    """
+    Calculates the similarity between two strings.
+
+    Parameters:
+        str1 (str): The first string.
+        str2 (str): The second string.
+
+    Returns:
+        float: The similarity coefficient between the two strings.
+
+    """
     str1 = str1.strip()
     str2 = str2.strip()
     seq_matcher = SequenceMatcher(None, str1.lower(), str2.lower())
@@ -15,25 +26,56 @@ def calc_similarity(str1, str2):
 
 
 def get_paper_titles(url):
+    """
+    Retrieves the titles of articles from a web page.
+
+    Parameters:
+        url (str): The URL of the web page.
+
+    Returns:
+        list: A list of dictionaries containing the titles and authors of the articles.
+
+    """
+    # Make a GET request to the URL
     response = requests.get(url)
 
+    # Check if the request was successful or not
     if response.status_code == 200:
-        print('La solicitud fue exitosa')
+        print('The request was successful')
     else:
-        print('Ocurrió un error al realizar la solicitud')
+        print('An error occurred while making the request')
 
+    # Get the HTML content from the response
     html = BeautifulSoup(response.text, 'html.parser')
+
+    # Find all <font> elements in the HTML
     titles = html.find_all('font')
+
+    # Initialize a list to store the articles
     papers = []
 
+    # Iterate over the found titles
     for title in titles:
+        # Find the <b> element that contains the article title
         text = title.find('b')
+
+        # Find the <i> element that contains the article author
         author = title.find('i')
+
+        # Find all <a> elements that contain related links for the article
+        scholar = title.find_all('a')
+
+        # Check if the title is not empty and not equal to unwanted values
         if text and text.text.strip() not in ['Abstract:', '[pdf] [scholar]']:
+            # Clean and format the article title
             title_paper = text.text.replace("\x92", "'").replace(
                 "\r", " ").replace("\n", " ")
+
+            # Clean and format the article author
             author = author.text.replace("\x92", "'").replace(
                 "\r", " ").replace("\n", " ")
+
+            # Add the article to the list
             papers.append({
                 'title': title_paper,
                 'title_google': '-',
@@ -41,35 +83,81 @@ def get_paper_titles(url):
                 'cited_by': '0',
                 'author': author
             })
+
+    # Return the list of articles
     return papers
 
 
 def search_paper_info(paper_title, api_key):
+    """
+    Searches for information about a paper using the Google Scholar API.
+
+    Parameters:
+        paper_title (str): The title of the paper.
+        api_key (str): The API key for accessing the Google Scholar API.
+
+    Returns:
+        dict or None: A dictionary containing information about the paper if a match is found, or None if no match is found.
+
+    """
+    # Set the parameters for the API request
     params = {
         "engine": "google_scholar",
         "q": paper_title,
         "api_key": api_key
     }
 
+    # Create a GoogleSearch instance with the parameters
     search = GoogleSearch(params)
+
+    # Perform the search and retrieve the results as a dictionary
     results = search.get_dict()
+
+    # Get the organic search results
     organic_results = results["organic_results"]
+
+    # Check if there are any organic search results
     if len(organic_results) > 0:
+        # Iterate over the organic results
         for result in organic_results:
+            # Calculate the similarity between the result title and the paper title
             similarity = calc_similarity(result["title"], paper_title)
+
+            # Check if the similarity is above a threshold (e.g., 0.8)
             if similarity > 0.8:
+                # Return the matching result
                 return result
+
+    # If no match is found, return None
     return None
 
 
 def write_paper_info_to_file(filename, name, papers, api_key):
-    path_file = filename+"/"+name+'.csv'
+    """
+    Writes paper information to a file in CSV format.
+
+    Parameters:
+        filename (str): The directory path where the file will be created.
+        name (str): The name of the file (without extension).
+        papers (list): A list of dictionaries containing paper information.
+        api_key (str): The API key for accessing the Google Scholar API.
+
+    Returns:
+        None
+
+    """
+    # Construct the file path
+    path_file = filename + "/" + name + ".csv"
+
+    # Open the file in write mode
     with open(path_file, mode='w', newline='', encoding='utf-8') as file:
-        # creamos el objeto writer
+        # Create a CSV writer object
         writer = csv.writer(file)
-        # escribimos una fila de datos
-        writer.writerow(
-            ['título', 'título google', 'autor', 'author google', 'nro citas', 'observación'])
+
+        # Write the header row
+        writer.writerow(['title', 'title_google', 'author', 'author_google', 'cited_by', 'observation'])
+
+        # Iterate over the papers
         for dictionary in papers:
             title = dictionary.get('title')
             title_google = dictionary.get('title_google')
@@ -77,38 +165,60 @@ def write_paper_info_to_file(filename, name, papers, api_key):
             author_google = dictionary.get('author_google')
             cited_by = dictionary.get('cited_by')
             observation = '-'
+
+            # Search for additional paper information using the Google Scholar API
             paper_info = search_paper_info(title, api_key)
+
             if paper_info:
+                # Update the title and author information from the API response
                 author_google = paper_info["publication_info"]["summary"]
                 title_google = paper_info["title"]
+
                 try:
                     cited_by = paper_info["inline_links"]["cited_by"]["total"]
                 except KeyError:
                     cited_by = 0
             else:
                 observation = 'not found'
-            writer.writerow(
-                [title, title_google, author, author_google, cited_by, observation])
+
+            # Write a row of data to the CSV file
+            writer.writerow([title, title_google, author, author_google, cited_by, observation])
 
 
 def create_directory(file_name="csv"):
-    nombre_carpeta = file_name
-    ruta_carpeta = os.path.join(os.getcwd(), nombre_carpeta)
-    if os.path.exists(ruta_carpeta):
-        print("La carpeta existe")
+    """
+    Creates a directory with the specified name if it doesn't exist.
+
+    Parameters:
+        file_name (str): The name of the directory to be created (default is 'csv').
+
+    Returns:
+        None
+
+    """
+    # Set the folder name
+    folder_name = file_name
+
+    # Construct the folder path using the current working directory and the folder name
+    folder_path = os.path.join(os.getcwd(), folder_name)
+
+    # Check if the folder already exists
+    if os.path.exists(folder_path):
+        print("The folder already exists")
     else:
-        os.mkdir(ruta_carpeta)
+        # Create the folder if it doesn't exist
+        os.mkdir(folder_path)
 
 
 pg = ProxyGenerator()
 pg.FreeProxies()
 scholarly.use_proxy(pg)
 
-conferences_years = ['WER21']
+conferences_years = ['WER00']
 
 # Constantes
 CONFERENCE_URL = 'http://wer.inf.puc-rio.br/WERpapers/papers_by_conference.lp?conference='
-API_KEY = 'd0808aef610cf91af1d083c8181d2f885115f904b79b9f0296fd4cfa47cc8001'
+API_KEY = ''
 FILE_NAME = 'csv'
 
 for name in conferences_years:
