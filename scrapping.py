@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-from scholarly import scholarly, ProxyGenerator
 from serpapi import GoogleSearch
 import csv
 import os
@@ -155,7 +154,8 @@ def write_paper_info_to_file(filename, name, papers, api_key):
         writer = csv.writer(file)
 
         # Write the header row
-        writer.writerow(['title', 'title_google', 'author', 'author_google', 'cited_by', 'observation'])
+        writer.writerow(['title', 'title_google', 'author',
+                        'author_google', 'cited_by', 'observation'])
 
         # Iterate over the papers
         for dictionary in papers:
@@ -182,7 +182,8 @@ def write_paper_info_to_file(filename, name, papers, api_key):
                 observation = 'not found'
 
             # Write a row of data to the CSV file
-            writer.writerow([title, title_google, author, author_google, cited_by, observation])
+            writer.writerow([title, title_google, author,
+                            author_google, cited_by, observation])
 
 
 def create_directory(file_name="csv"):
@@ -208,11 +209,6 @@ def create_directory(file_name="csv"):
     else:
         # Create the folder if it doesn't exist
         os.mkdir(folder_path)
-
-
-pg = ProxyGenerator()
-pg.FreeProxies()
-scholarly.use_proxy(pg)
 
 conferences_years = ['WER00']
 
