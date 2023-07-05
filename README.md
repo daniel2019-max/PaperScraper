@@ -1,4 +1,4 @@
-# Conference Paper Information Web Scraper
+# Conference WER Papers Information Web Scraper
 
 This Python script is a web scraper that utilizes the `requests`, `BeautifulSoup` and `serpapi` libraries to fetch information about conference papers from the WER (Workshop on Requirements Engineering) event website.
 The main objective of the script is to retrieve the titles and authors of conference papers and search for additional information about each paper using the Google Scholar API. The obtained information is then saved into CSV files.
