@@ -11,6 +11,7 @@ Before running the script, make sure you have the following libraries installed:
 - csv
 - os
 - difflib
+
 Additionally, you'll need a valid Google Scholar API key to access the API.
 
 # How to Use the Script
